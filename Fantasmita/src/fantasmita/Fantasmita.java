@@ -20,6 +20,10 @@ public class Fantasmita {
         System.out.println("Hola mundo");
         System.out.println("Hola mundo");
         System.out.println("Hola mundo");
+        System.out.println("Hola mundo");
+        System.out.println("Hola mundo");
+        System.out.println("Guia de simulacion");
+        
     }
     
 }
